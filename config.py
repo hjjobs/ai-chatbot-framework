@@ -1,5 +1,6 @@
 import os
 
+
 class Config(object):
     DEBUG = False
     DB_NAME = "iky-ai"
